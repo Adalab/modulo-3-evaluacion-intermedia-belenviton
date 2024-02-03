@@ -1,1 +1,7 @@
 @import 'core/reset';
+@import 'components/QuotesList.scss';
+
+.header {
+  text-align: center;
+  margin: 3rem;
+}

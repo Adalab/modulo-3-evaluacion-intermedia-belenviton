@@ -1,0 +1,11 @@
+.characters-list {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  .list-friends {
+    border: 0.1rem palevioletred solid;
+    margin: 1rem;
+    .nameCharacter {
+      color: blueviolet;
+    }
+  }
+}
