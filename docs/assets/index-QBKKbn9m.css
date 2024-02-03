@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}:root{font-family:Roboto,sans-serif;font-size:62.5%}ul{list-style:none}a{text-decoration:none}.characters-list{display:grid;grid-template-columns:1fr 1fr}.characters-list .list-friends{border:.1rem palevioletred solid;margin:1rem}.characters-list .list-friends .nameCharacter{color:#8a2be2}.header{text-align:center;margin:3rem}
